@@ -1,0 +1,13 @@
+.DS_Store
+*.pyc
+__pycache__
+.ipynb_checkpoints
+exps
+data
+*.pkl
+log
+*.csv
+*.egg-info
+*.egg
+.vscode/lanch.json
+.vscode/task.json
